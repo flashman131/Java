@@ -10,7 +10,7 @@ public class Main {
 		int e=Integer.parseInt(args[4]);
 		
 		
-		double sztk=a+b+c+d+e/5;
+		double sztk=a+b+c+d+e/args.length;
 		
 		System.out.println("A számok mértani közepe: "+ sztk);
 	}
