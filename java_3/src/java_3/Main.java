@@ -11,10 +11,13 @@ public class Main {
 		int szorzat=a*b;
 		double hanyados=a/b;
 		
+		
 		System.out.println(osszeg);
 		System.out.println(kulonbseg);
 		System.out.println(szorzat);
 		System.out.println(hanyados);
+		
+		
 
 	}
 }
